@@ -8,7 +8,7 @@ This program requires ruby 2.7.1 to run. To get the correct ruby interpreter go 
 
 This Program is very alpha... so bugs and ideas are welcome here: https://bitbucket.org/rollinger/guitardrill/issues?status=new&status=open
 
-Currently two standalone scripts assist you to train and improve your guitar skill:
+Currently two standalone scripts (in the standalone folder) assist you to train and improve your guitar skill:
 
 1) solo_training.rb KEY MODE TYPE [ruby.exe solo_training.rb C major diatonic]
 => Assists you in training patterns in a scale at different tempi and voicings 
