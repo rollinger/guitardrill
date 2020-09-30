@@ -1,0 +1,78 @@
+--- !ruby/array:Sequence
+- !ruby/object:GuitarMeasure
+  clock:
+  - 4
+  - 4
+  measure:
+  - - 1.0
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: A
+      duration:
+      - 1
+      - 4
+      octave: -2
+      style: :normal
+      string: 6
+      fret: 5
+  - - 1.5
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: C
+      duration:
+      - 1
+      - 4
+      octave: -2
+      style: :normal
+      string: 6
+      fret: 8
+  - - 2.0
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: D
+      duration:
+      - 1
+      - 4
+      octave: -2
+      style: :normal
+      string: 5
+      fret: 5
+  - - 2.5
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: E
+      duration:
+      - 1
+      - 4
+      octave: -1
+      style: :normal
+      string: 5
+      fret: 7
+  - - 3.0
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: G
+      duration:
+      - 1
+      - 4
+      octave: -1
+      style: :normal
+      string: 4
+      fret: 5
+  - - 3.5
+    - !ruby/object:GuitarNote
+      available_styles:
+      - :normal
+      note: A
+      duration:
+      - 1
+      - 4
+      octave: -1
+      style: :normal
+      string: 4
+      fret: 7
